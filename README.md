@@ -2,14 +2,14 @@
 
 # 🤖 ARS AI — Intelligent Chatbot App
 
-<img src="assets/images/logo.png" alt="ARS AI Logo" width="120" height="120" style="border-radius: 20px"/>
+<img src="images/logo.png" alt="ARS AI Logo" width="120" height="120" style="border-radius: 20px"/>
 
 **A powerful AI-powered chatbot application built with Flutter & Google Gemini**
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 
 </div>
 
@@ -134,10 +134,9 @@ flutter run
 
 ## 📸 Screens
 
-| Splash | Login | Chat | Menu |
+| Splash | Login | Chat Interface | Models |
 |--------|-------|------|------|
-| Lottie Animation | Google Sign-In | Gemini AI Chat | Sidebar Drawer |
-
+| ![Splash](images/2.jpeg) | ![Login](images/1.jpeg) | ![Chat](images/3.jpeg) | ![Model](images/4.jpeg) |
 ---
 
 ## 🔒 Authentication Flow
