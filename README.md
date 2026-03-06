@@ -12,7 +12,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](./LICENSE)
 
-[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-Latest%20Release-brightgreen?style=for-the-badge)]([https://github.com/your-username/ars-ai/releases/latest](https://github.com/ars2k03/A-R-S-AI/releases/tag/v1.0.2303009)
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/ars2k03/A-R-S-AI/releases/tag/v1.0.2303009)
 
 </div>
 
@@ -134,7 +134,7 @@ ARS AI supports **three theme modes** with full persistence:
 
 ## ⬇️ Download
 
-[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-Latest%20Release-brightgreen?style=for-the-badge)]([https://github.com/your-username/ars-ai/releases/latest](https://github.com/ars2k03/A-R-S-AI/releases/tag/v1.0.2303009)
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/ars2k03/A-R-S-AI/releases/tag/v1.0.2303009)
 
 > Requires **Android 5.0 (API 21)** or higher.
 
